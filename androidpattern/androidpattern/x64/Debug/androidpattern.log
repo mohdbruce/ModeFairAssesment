@@ -1,0 +1,8 @@
+﻿  androidpattern.cpp
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(228,6): warning C4101: 'winner1': unreferenced local variable
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(308,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(291,6): warning C4101: 'start_crossover_point': unreferenced local variable
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(292,6): warning C4101: 'end_crossover_point': unreferenced local variable
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(453,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MohdBruceLee\source\repos\androidpattern\androidpattern\androidpattern.cpp(596,6): warning C4101: 'totaldistance': unreferenced local variable
+  androidpattern.vcxproj -> C:\Users\MohdBruceLee\source\repos\androidpattern\x64\Debug\androidpattern.exe
